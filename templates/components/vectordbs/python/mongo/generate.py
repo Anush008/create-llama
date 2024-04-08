@@ -38,6 +38,6 @@ See https://github.com/run-llama/mongodb-demo/tree/main?tab=readme-ov-file#creat
     )
 
 
-if __name__ == "__main__":
+def main():
     init_settings()
     generate_datasource()

@@ -34,6 +34,6 @@ def generate_datasource():
     logger.info(f"Successfully created embeddings in the Milvus")
 
 
-if __name__ == "__main__":
+def main():
     init_settings()
     generate_datasource()

@@ -34,6 +34,6 @@ def generate_datasource():
     )
 
 
-if __name__ == "__main__":
+def main():
     init_settings()
     generate_datasource()

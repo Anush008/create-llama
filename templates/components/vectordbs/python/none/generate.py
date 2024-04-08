@@ -27,6 +27,6 @@ def generate_datasource():
     logger.info(f"Finished creating new index. Stored in {STORAGE_DIR}")
 
 
-if __name__ == "__main__":
+def main():
     init_settings()
     generate_datasource()
