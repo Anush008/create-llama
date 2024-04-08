@@ -1,5 +1,12 @@
 # create-llama
 
+## 0.0.33
+
+### Patch Changes
+
+- 1d78202: Add observability for Python
+- 9efcffe: Use Settings object for LlamaIndex configuration
+
 ## 0.0.32
 
 ### Patch Changes
